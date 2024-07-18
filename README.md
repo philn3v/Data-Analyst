@@ -13,9 +13,9 @@ My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_
     - [Covid Data Project](https://github.com/philn3v/Portfolio_Projects/blob/main/COVID_Project.sql)
   - R
     - [Legendary Pokémon Stats Analysis](https://github.com/philn3v/Portfolio_Projects/blob/main/LegendaryPokemon_Stats.py)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..]()
-  - Power BI
+  - Excel / Google Sheets [Canva]()
+  - Tableau [TableauPublic]()
+  - Power BI [NOVYPRO]()
   
 
 
