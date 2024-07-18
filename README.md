@@ -12,7 +12,7 @@ My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_
   - SQL
     - [Covid Data Project](https://github.com/philn3v/Portfolio_Projects/blob/main/COVID_Project.sql)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/philn3v/Portfolio_Projects/blob/main/LegendaryPokemon_Stats.ipynb)
+    - [Legendary Pokémon Stats Analysis](https://github.com/philn3v/Portfolio_Projects/blob/main/LegendaryPokemon_Stats.py)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..]()
   - Power BI
@@ -26,9 +26,9 @@ My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_
 
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`]()
+**Code:** [`COVID_Project.sql`](https://github.com/philn3v/Portfolio_Projects/blob/main/COVID_Project.sql)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
@@ -38,11 +38,11 @@ My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_
 
 ### Legendary Pokémon Analysis
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Goal:** To predict Pokémon Legendary status based on their characteristics such as Typing, Height and Weight, Stats and rank their importance in Legendary classification.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`]()
+**Code:** [`Legendary Pokémon Stats Analysis`](https://github.com/philn3v/Portfolio_Projects/blob/main/LegendaryPokemon_Stats.py)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
