@@ -4,7 +4,7 @@ Hi, I'm Phil! I have a teaching background and this is a portfolio of projects I
 
 This repository consists of topics and projects to develop my skills in my free time, as I explore and learning data analysis tools and techniques. Learning is a life long journey and I am always looking for opportunities to expand my knowledge and skills.
 
-My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024%20_%20PhilN%20_%20Resume%20_%20DA.pdf).
+My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_PhilN_Resume_DA.pdf).
 
 ## Table of Contents
 - [About](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/README.md#about)
