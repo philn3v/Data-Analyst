@@ -14,7 +14,7 @@ My CV in [pdf](https://github.com/philn3v/Data-Analyst-Portfolio/blob/main/2024_
   - R
     - [Legendary Pokémon Stats Analysis](https://github.com/philn3v/Portfolio_Projects/blob/main/LegendaryPokemon_Stats.py)
   - Excel / Google Sheets [Canva]()
-  - Tableau [TableauPublic]()
+  - Tableau [TableauPublic](https://public.tableau.com/app/profile/phil.ng4167/vizzes)
   - Power BI [NOVYPRO]()
   
 
